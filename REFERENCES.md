@@ -1,0 +1,2 @@
+- [PY: music21](http://web.mit.edu/music21/doc/index.html)
+- [HS: Euterpea examples](https://github.com/Euterpea/Euterpea2-Examples)
